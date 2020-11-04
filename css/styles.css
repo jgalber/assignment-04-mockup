@@ -42,18 +42,18 @@
 
   /* Styling */
   .top-banner h1 {
-    width: max-content;
-    color: white;
+    width: initial;
+    color: #FFF;
     margin-left: 10rem;
     font-size: 4em;
     text-transform: uppercase;
   }
 
   .top-banner p {
-    width: max-content;
+    width: initial;
     margin-left: 10rem;
     font-weight: lighter;
-    color: white;
+    color: #FFFFFF;
     font-size: 2.1em;
     font-style: italic;
     float: none;
@@ -239,8 +239,7 @@
     background-image: url("../images/footer-image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
-    border: 1px dotted orange;
+    color: #fff;
   }
 
   footer {
